@@ -1,4 +1,4 @@
-Result,time,Gender,distance
+Result,Time,Gender,distance
 Pass,3,Male,5
 Pass,5,Female,3
 Fail,2,Female,7
